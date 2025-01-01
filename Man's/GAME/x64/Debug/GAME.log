@@ -1,0 +1,3 @@
+﻿  GAME.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\variant(12): warning STL4038: The contents of <variant> are available only with C++17 or later.
+  GAME.vcxproj -> C:\Users\Айдана\source\repos\GAME\x64\Debug\GAME.exe
